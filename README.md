@@ -41,3 +41,6 @@ This data was scraped from the following websites:
   
   Bar or column chart displaying the To show the population density of different countries.
   
+![image](https://github.com/user-attachments/assets/c86fbb7a-4493-477b-a4e6-7d7e4bdece3f)
+
+  
